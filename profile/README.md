@@ -27,7 +27,7 @@ Core systems are being refined and infrastructure is continuously improving as w
 
 ## Community
 
-For updates, support, and development progress, join the official [Lynxly community](https://lynxly.xyz/discord).
+For updates, support, and development progress, join the official [Lynxly community](https://discord.gg/lynxly).
 
 ---
 
